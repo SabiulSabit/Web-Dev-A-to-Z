@@ -22,7 +22,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [About this Project](#about-this-project)
-* [Front-End](#frontend)
+* [Front End](#front-end)
   * [HTML](#html)
   * [CSS](#css)
   * [JavaScript](#javascript)
@@ -47,7 +47,7 @@ Here's why:
 
 
 
-## Front-End
+## Front End
   
 What is Front-End Developmnet?
 
