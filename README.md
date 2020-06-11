@@ -55,11 +55,13 @@ Front-end web development, also known as client-side development is the practice
 
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
 
-#### Reading Metarial 
+#### Reading + Video  Metarial 
 
 * [W3Schools](https://www.w3schools.com/html/default.asp) - Here you will find the basic of HTML with exapmles.
+* [General Assembly Dash](https://dash.generalassemb.ly/) - Here you will find some project in HTML and after completing those you will get certificate. 
+* [Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE) - This is a Basic Overview video of HTML.
+* [HTML for Beginners](https://www.udemy.com/course/hmtl5-training/) - This is Free Course on udemy. It will give you a clear concept of HTML.
 
-#### Video Metarial 
 
 
 ### Installation
