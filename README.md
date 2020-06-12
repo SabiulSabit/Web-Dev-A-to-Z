@@ -72,6 +72,8 @@ CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be
 * [CSS-Tricks](https://css-tricks.com/) - One of the best website for learnig CSS. Every topic is described briefly.
 * [W3Schools](https://www.w3schools.com/css/css_intro.asp) - Topic by topic discussion with live demo.
 * [Tutorialspoint](https://www.tutorialspoint.com/css/index.htm) - Along with the basic you will find a lots of information about CSS animation
+* [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc) -This youtube video is made by FreeCodeCamp. They explain everything pretty well.
+* [CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) - One of the best css animation course in youtube by The Net Ninja.
 
 
 ### Installation
