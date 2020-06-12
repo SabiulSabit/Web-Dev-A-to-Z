@@ -82,6 +82,10 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 #### Reading Metarial 
 
+* [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) - This is the Javascript documentation by Mozilla. Which is a very uptodate and easy for learners.
+* [devdocs](https://devdocs.io/javascript/) - Here you will find A to Z of JavaScript.
+* [javascript.info](https://javascript.info/) - This is another beautiful documentation of JS. Every topic is nicely described with some great examples
+
 
 ### Installation
 
