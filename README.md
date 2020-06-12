@@ -76,6 +76,13 @@ CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be
 * [CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) - One of the best css animation course in youtube by The Net Ninja.
 
 
+## JavaScript
+
+JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
+
+#### Reading Metarial 
+
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
