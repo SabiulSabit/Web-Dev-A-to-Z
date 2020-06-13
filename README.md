@@ -52,6 +52,9 @@ Front-end web development, also known as client-side development is the practice
 
 
 ## HTML
+<p align="center">
+    <img src="images/html-5.png" alt="Logo" width="150" height="150">
+</p>  
 
 Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.
 
