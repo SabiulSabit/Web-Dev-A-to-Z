@@ -114,6 +114,13 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 
 ## Bootstrap
 
+<p align="center">
+    <img src="images/bootstrap.png" alt="Logo" width="150" height="150">
+</p> 
+
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
