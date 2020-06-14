@@ -98,6 +98,13 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 * [javascript.info](https://javascript.info/) - This is another beautiful documentation of JS. Every topic is nicely described with some great examples
 
 
+#### Video Merarial
+
+* [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/) - This is a basic JS course on udemy by Bharath Thippireddy. This will help you to understand how was actually works
+* [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - This is also a fundamental course of JS presented by FreeCodeCamp
+* [JavaScript](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP) - This is a nice course by Hitesh Choudhary. He describe JS basic to depth level here.
+* [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/course/advanced-and-object-oriented-javascript/) - Here you will find the OOP concept of JS. This is also created by Bharath Thippireddy.
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
