@@ -145,6 +145,10 @@ So what makes the front end of a website possible? Where is all that data stored
 
 ## Node.js
 
+<p align="center">
+    <img src="images/nodejs.png" alt="Logo" width="150" height="150">
+</p> 
+
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser.
 
 #### Reading Metarial 
