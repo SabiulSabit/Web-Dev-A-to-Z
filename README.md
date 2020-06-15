@@ -165,6 +165,20 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 * [Code with Node: Learn by Doing](https://www.udemy.com/course/code-with-node/) - This is also a good tutorial about Node.js. Here you will build a professional website with Node.js.
 * [Udemy - The Complete Node.js Developer Course (3rd Edition)]() - This is also a paid course in udemy, so i also put a google drive link here. Here you can leran node js by buliding 3 project in Node.js.
 
+## PHP
+
+<p align="center">
+    <img src="images/php.png" alt="Logo" width="150" height="150">
+</p> 
+
+PHP is a popular general-purpose scripting language that is especially suited to web development. This is the most popular language for web development.
+
+
+#### Reading Metarial 
+
+#### Video Merarial
+
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
