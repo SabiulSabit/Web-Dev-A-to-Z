@@ -188,7 +188,37 @@ PHP is a popular general-purpose scripting language that is especially suited to
 
 #### Extra :boom:
 
-* [PHP]() - 
+* [The Complete 2020 PHP Full Stack Web Developer Bootcamp]() - link add korte hobe
+
+
+## Database
+
+
+### What is Database?
+
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+
+
+## MySQL
+
+<p align="center">
+    <img src="images/mysql.png" alt="Logo" width="150" height="150">
+</p> 
+
+MySQL is the most popular database system. It is a relational database. Its name is a combination of "My", the name of co-founder Michael Widenius's daughter, and "SQL", the abbreviation for Structured Query Language.
+
+#### Reading Metarial 
+
+* [W3School](https://www.w3schools.com/php/php_mysql_intro.asp) - Here MySQL is described with php. But it will help you to understand the basic syntax of MySQL.
+* [MySQL-Documentation](https://dev.mysql.com/doc/) - This is the official documentation of MySQL. You can go more depth of MYSQL  by read this documentation.
+
+#### Video Merarial
+
+* [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA) - This is one of the best course in the internet for MySQL created by Programming with Mosh. He described every part pretty clearly. I hope this one video will clear your concept of MySQL.
+
+
+
+
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
