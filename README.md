@@ -176,6 +176,10 @@ PHP is a popular general-purpose scripting language that is especially suited to
 
 #### Reading Metarial 
 
+* [W3School](https://www.w3schools.com/php/DEFAULT.asp) - Team W3School write a high quality documentation. Here you will find everything of PHP with some example in each topic.
+* [PHP -manual](https://www.php.net/manual/en/) - This is the official documentation of PHP.
+* [Tutorialspoint](https://www.tutorialspoint.com/php/index.htm) - This is also a great resource for PHP. You can follow this also.
+
 #### Video Merarial
 
 
