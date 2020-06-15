@@ -182,7 +182,13 @@ PHP is a popular general-purpose scripting language that is especially suited to
 
 #### Video Merarial
 
+* [PHP Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) - This a nice course of PHP created by The Net Ninja. Here he discuss PHP, mySQL and some OOP concept of PHP.
+* [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/course/code-dynamic-websites/) - By the end of this course, you will have a thorough understanding of the PHP fundamentals and you will build a Resturent website. 
+* [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Great Tutorial by mmtuts. He goes php basic to advance level in this tutorial.
 
+#### Extra :boom:
+
+* [PHP]() - 
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
