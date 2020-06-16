@@ -13,7 +13,7 @@
   <h3 align="center">Web Dev A to Z</h3>
 
   <p align="center">
-   Here you will find some of the best resourse for web development.
+   Here you will find some of the best resource for web development.
   </p>
 </p>
 
