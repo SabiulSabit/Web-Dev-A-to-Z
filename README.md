@@ -38,7 +38,7 @@
 ## About This Project
 
 
-Here a beginner web developer will find some of the best resource for his journey through a full stack developer.I have divided the full repository in two major parts. One is for frontend and one is backend. On those section I added some resourse and course link so that you can follow that. I also add some paid course google drive link. I hope if one is follow those course one by one he/she will definetly abel to work as a full stack developer.
+Here a beginner web developer will find some of the best resource for his journey through a full stack developer.I have divided the full repository in two major parts. One is for frontend and one is backend. On those section I added some resourse and course link so that you can follow that. I also added some paid course google drive link. I hope if one is follow those course one by one he/she will definetly abel to work as a full stack developer.
 
 * Best of Luck :smile:
 
