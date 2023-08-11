@@ -1,5 +1,5 @@
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sabiulhajjaj/)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
